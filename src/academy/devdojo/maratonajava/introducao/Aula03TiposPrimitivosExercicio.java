@@ -4,7 +4,7 @@ package academy.devdojo.maratonajava.introducao;
 
  Eu <nome>, morando no endereço <endereço>, confirmo que recebi o salário de <salario>, na data <data>.
  */
-public class TiposPrimitivosExercicio {
+public class Aula03TiposPrimitivosExercicio {
     static void main(String[] args) {
         String nome = "Nicolas";
         String endereco = "Aurora";

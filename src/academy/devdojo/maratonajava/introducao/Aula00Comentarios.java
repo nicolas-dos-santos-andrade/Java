@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Comentarios {
+public class Aula00Comentarios {
     static void main(String[] args) {
         System.out.println("Comentários");
 
